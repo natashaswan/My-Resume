@@ -139,6 +139,7 @@ Audio Visual Technician at UBC,  Vancouver, BC — Nov. 2017 -  May 2020.
 | Programming languages: | JavaScript ES6, HTML5, CSS3.                                  |
 | Frameworks:            | React.js, Material UI, Bootstrap, Node JS, Express.           |
 | Development tools:     | Git / Github, VS Code, NPM, MongoDB, Azure, Heroku, Hyper CLI |
+|                        | SASS, webpack                                                 |
 
 ## More Skills
 
