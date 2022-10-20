@@ -81,7 +81,7 @@ Certificates:  [click to expand]
 
 -Responsive Web Design, freeCodeCamp.org (2021),
 -JavaScript Algorithms and Data Structures, freeCodeCamp.org (2021),
--React, Maximilian Schwarzmüller, (pending).
+-React, Maximilian Schwarzmüller.
 
 </details>
 
@@ -96,11 +96,20 @@ Designing for People (DFP) is Collaborative Research and Training Experience Pro
 
 <details>
 <summary>
-Web developer (contract), Vancouver, BC — March. 2022 -  present  [click to expand]
+Front-end Web developer (contract), Vancouver, BC — March 2022 -  present  [click to expand]
 </summary>
-
-- Building a PWA web app from scratch in ReactJS.  
+   
+- Building a PWA web app from scratch in ReactJS:
+<br>
+&nbsp;- Developing web pages using HTML/HTML5, CSS/SCSS, SASS, JavaScript, React JS.
+<br>
+&nbsp;- Developing reusable React components.
+<br>
+&nbsp;- Working with NMP modules and libraries.
+   
 - Bug fixing in a chrome extension.
+<br>
+&nbsp;- Using JS and JQuery to fix bugs.
 </details>
 <br>
 
@@ -153,8 +162,15 @@ Audio Visual Technician at UBC,  Vancouver, BC — Nov. 2017 -  May 2020.
 
 ## More Skills
 
-- I can bring my open-mindedness, flexibility, high-level problem solving skills, and my ability to learn new tools quickly. On a personal note, I am easy to get along with, endlessly cheerful, and energetic and hard working far beyond the common average.
-- I am fluent in Russian.
+- Ability to work as a team member as well as individually.
+
+- Excellent commmunication and inter-personal skills, well-organized and goal-oriented.
+
+- I can bring my open-mindedness, flexibility, high-level problem solving skills, and my ability to learn new tools quickly. 
+
+- On a personal note, I am easy to get along with, endlessly cheerful and energetic, and also hard working far beyond the common average.
+
+- I am bilingual: English and Russian.
 
 ## Skills and projects I am currently working on:
 
