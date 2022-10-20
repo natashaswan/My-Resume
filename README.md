@@ -96,6 +96,16 @@ Designing for People (DFP) is Collaborative Research and Training Experience Pro
 
 <details>
 <summary>
+Web developer (contract), Vancouver, BC — March. 2022 -  present  [click to expand]
+</summary>
+
+- Building a PWA web app from scratch in ReactJS.  
+- Bug fixing in a chrome extension.
+</details>
+<br>
+
+<details>
+<summary>
 Freelance web developer, Vancouver, BC — Nov. 2021 -  present  [click to expand]
 </summary>
 
