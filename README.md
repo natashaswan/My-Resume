@@ -105,6 +105,7 @@ Front-end Web developer (contract), Vancouver, BC — March 2022 -  present  [cl
 &nbsp;- Developing reusable React components.
 <br>
 &nbsp;- Working with NMP modules and libraries.
+  
 - Bug fixing in a chrome extension.
 <br>
 &nbsp;- Using JS and JQuery to fix bugs.
