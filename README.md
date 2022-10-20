@@ -98,19 +98,21 @@ Designing for People (DFP) is Collaborative Research and Training Experience Pro
 <summary>
 Front-end Web developer (contract), Vancouver, BC — March 2022 -  present  [click to expand]
 </summary>
+&nbsp;
 
 - Building a PWA web app from scratch in ReactJS:
 
-&nbsp;&nbsp;&nbsp;- Developing web pages using HTML/HTML5, CSS/SCSS, SASS, JavaScript, React JS.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Developing web pages using HTML/HTML5, CSS/SCSS, SASS, JavaScript, React JS.
 <br>
-&nbsp;&nbsp;&nbsp;- Developing reusable React components.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Developing reusable React components.
 <br>
-&nbsp;&nbsp;&nbsp;- Working with NMP modules and libraries.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Working with NMP modules and libraries.
 <br>
+&nbsp;
   
 - Bug fixing in a chrome extension.
 
-&nbsp;&nbsp;&nbsp;- Using JS and JQuery to fix bugs.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Using JS and JQuery to fix bugs.
 </details>
 <br>
 
