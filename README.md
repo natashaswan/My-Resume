@@ -9,7 +9,7 @@ _:mailbox: Vancouver, BC \
 
 ---
 
-> A creative, enthusiastic and hard-working entry-level web developer with a background in library and information sciences I am seeking to apply my knowledge in full-stack development gained through self-paced learning, coursework and projects.
+> A creative, enthusiastic and hard-working junior web developer, I am seeking to apply my knowledge in full-stack web development gained through self-paced learning, coursework and projects.
 
 ---
 
