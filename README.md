@@ -100,7 +100,7 @@ Front-end Web developer (contract), Vancouver, BC — March 2022 -  present  [cl
 </summary>
 
 - Building a PWA web app from scratch in ReactJS:
-<br>
+
 &nbsp;- Developing web pages using HTML/HTML5, CSS/SCSS, SASS, JavaScript, React JS.
 <br>
 &nbsp;- Developing reusable React components.
@@ -109,7 +109,7 @@ Front-end Web developer (contract), Vancouver, BC — March 2022 -  present  [cl
 <br>
   
 - Bug fixing in a chrome extension.
-<br>
+
 &nbsp;- Using JS and JQuery to fix bugs.
 </details>
 <br>
