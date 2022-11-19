@@ -35,7 +35,7 @@ HTML / CSS / Bootstrap / JS Landing Page:
 
 </summary>
 
-This landing page hosts information about an English language school in Russia, its founder, its address and location on the map, ways to contact and clients' testimonials.
+This landing page hosts information about an English language school, its founder, its address and location on the map, ways to contact and clients' testimonials.
 
 </details>
 <br>
@@ -100,7 +100,7 @@ Front-end Web developer (contract), Vancouver, BC — March 2022 -  present  [cl
 </summary>
 &nbsp;
 
-- Building a PWA web app from scratch in ReactJS:
+- Front-end Web-app development with React:
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Developing web pages using HTML/HTML5, CSS/SCSS, SASS, JavaScript, React JS.
 <br>
