@@ -13,6 +13,71 @@ _:mailbox: Vancouver, BC \
 
 ---
 
+## Employment:
+
+<details>
+<summary>
+Front-end Web developer (contract), Vancouver, BC — March 2022 -  present  [click to expand]
+</summary>
+&nbsp;
+
+- Front-end Web-app development with React:
+  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Developing web pages using HTML/HTML5, CSS/SCSS, SASS, JavaScript, React JS.
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Developing reusable React components.
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Working with NMP modules and libraries.
+<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Version controll using GutHub (merging, resolving conflicts).
+<br>
+&nbsp;
+  
+- Bug fixing in a chrome extension.
+  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Using JS and JQuery to fix bugs.
+</details>
+<br>
+
+<details>
+<summary>
+Freelance web developer, Vancouver, BC — Nov. 2021 -  present  [click to expand]
+</summary>
+
+- Building a web app in Word Press for a small library.
+- Various personal projects in React and Node.js.
+</details>
+<br>
+
+<details>
+<summary>
+Library Technician at Vancouver Public Library Vancouver, BC — Jan. 2018 - present
+</summary>
+
+- Respond to information enquiries from the public, eResources troubleshooting (email, phone, in person), library website support.
+</details>
+<br>
+
+<details>
+<summary>
+Video Recording Studio Coordinator at UBC,  Vancouver, BC — Jul. 2020 -  Dec. 2020
+</summary>
+
+- Set up a video recording studio from stractch to support online teaching.
+</details>
+<br>
+
+<details>
+<summary>
+Audio Visual Technician at UBC,  Vancouver, BC — Nov. 2017 -  May 2020.
+</summary>
+
+- Assisted AV technicians with maintenance, troubleshooting, instruction and support for AV systems.
+</details>
+<br>
+<br>
+
+
 ## My Projects:
 
 <details>
@@ -90,70 +155,6 @@ Certificates:  [click to expand]
 </summary> 
 Designing for People (DFP) is Collaborative Research and Training Experience Program that fosters cross-disciplinary coaching in human-centered design of interactive technologies.
 </details>
-<br>
-
-## Employment:
-
-<details>
-<summary>
-Front-end Web developer (contract), Vancouver, BC — March 2022 -  present  [click to expand]
-</summary>
-&nbsp;
-
-- Front-end Web-app development with React:
-  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Developing web pages using HTML/HTML5, CSS/SCSS, SASS, JavaScript, React JS.
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Developing reusable React components.
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Working with NMP modules and libraries.
-<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Version controll using GutHub (merging, resolving conflicts).
-<br>
-&nbsp;
-  
-- Bug fixing in a chrome extension.
-  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Using JS and JQuery to fix bugs.
-</details>
-<br>
-
-<details>
-<summary>
-Freelance web developer, Vancouver, BC — Nov. 2021 -  present  [click to expand]
-</summary>
-
-- Building a web app in Word Press for a small library.
-- Various personal projects in React and Node.js.
-</details>
-<br>
-
-<details>
-<summary>
-Library Technician at Vancouver Public Library Vancouver, BC — Jan. 2018 - present
-</summary>
-
-- Respond to information enquiries from the public, eResources troubleshooting (email, phone, in person), library website support.
-</details>
-<br>
-
-<details>
-<summary>
-Video Recording Studio Coordinator at UBC,  Vancouver, BC — Jul. 2020 -  Dec. 2020
-</summary>
-
-- Set up a video recording studio from stractch to support online teaching.
-</details>
-<br>
-
-<details>
-<summary>
-Audio Visual Technician at UBC,  Vancouver, BC — Nov. 2017 -  May 2020.
-</summary>
-
-- Assisted AV technicians with maintenance, troubleshooting, instruction and support for AV systems.
-</details>
-<br>
 <br>
 
 ## Skills
